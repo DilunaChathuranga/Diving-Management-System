@@ -1,0 +1,105 @@
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\ApplicationInsights.config
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\csc.exe
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\vbc.exe
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\DMS.dll.config
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\DMS.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\DMS.pdb
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.Web.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\MySql.Data.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.Web.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\bin\MySql.Data.xml
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\obj\Debug\DMS.csprojResolveAssemblyReference.cache
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\obj\Debug\DMS.dll
+C:\Users\TechwireLanka-PC002\Source\Workspaces\MyFirstProject\DMS\DMS\obj\Debug\DMS.pdb
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\ApplicationInsights.config
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\csc.exe
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\vbc.exe
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\DMS.dll.config
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\DMS.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\DMS.pdb
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\MySql.Data.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\MySql.Data.xml
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\obj\Debug\DMS.csprojResolveAssemblyReference.cache
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\obj\Debug\DMS.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\obj\Debug\DMS.pdb
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.Web.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.Web.xml
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chameera Dissanayaka\Documents\Visual Studio 2015\Projects\DMS\DMS\bin\Microsoft.ApplicationInsights.xml
+E:\pp\DMS\DMS\bin\ApplicationInsights.config
+E:\pp\DMS\DMS\bin\roslyn\csc.exe
+E:\pp\DMS\DMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pp\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pp\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pp\DMS\DMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pp\DMS\DMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pp\DMS\DMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pp\DMS\DMS\bin\roslyn\System.Collections.Immutable.dll
+E:\pp\DMS\DMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\pp\DMS\DMS\bin\roslyn\vbc.exe
+E:\pp\DMS\DMS\bin\roslyn\VBCSCompiler.exe
+E:\pp\DMS\DMS\bin\roslyn\VBCSCompiler.exe.config
+E:\pp\DMS\DMS\bin\DMS.dll.config
+E:\pp\DMS\DMS\bin\DMS.dll
+E:\pp\DMS\DMS\bin\DMS.pdb
+E:\pp\DMS\DMS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\pp\DMS\DMS\bin\Microsoft.AI.DependencyCollector.dll
+E:\pp\DMS\DMS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\pp\DMS\DMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\pp\DMS\DMS\bin\Microsoft.AI.Web.dll
+E:\pp\DMS\DMS\bin\Microsoft.AI.WindowsServer.dll
+E:\pp\DMS\DMS\bin\Microsoft.ApplicationInsights.dll
+E:\pp\DMS\DMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pp\DMS\DMS\bin\MySql.Data.dll
+E:\pp\DMS\DMS\bin\Microsoft.AI.DependencyCollector.xml
+E:\pp\DMS\DMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\pp\DMS\DMS\bin\Microsoft.AI.Web.xml
+E:\pp\DMS\DMS\bin\Microsoft.AI.WindowsServer.xml
+E:\pp\DMS\DMS\bin\Microsoft.ApplicationInsights.xml
+E:\pp\DMS\DMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pp\DMS\DMS\bin\MySql.Data.xml
+E:\pp\DMS\DMS\obj\Debug\DMS.csprojResolveAssemblyReference.cache
+E:\pp\DMS\DMS\obj\Debug\DMS.dll
+E:\pp\DMS\DMS\obj\Debug\DMS.pdb
